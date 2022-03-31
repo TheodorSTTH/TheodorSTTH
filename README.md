@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @TheodorSTTH
 - 👀 I’m interested in programing fullstack
 - 🌱 I’m currently learning frontend development
-- 💞️ I’m looking to collaborate with friends and in a work setting
-- 📫 How to reach me: github
+- 💞️ I’m looking to work with friends and/or in a work setting
+- 📫 How to reach me: github/email
 
 <!---
 TheodorSTTH/TheodorSTTH is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
