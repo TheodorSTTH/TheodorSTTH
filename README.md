@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @TheodorSTTH
 - 👀 I’m interested in fullstack development
-- 🌱 I’m currently learning Docker
+- 🌱 I’m currently learning Machine Learning
 - 💞️ I’m looking to work with friends and/or in a work setting
 - 📫 How to reach me: github/email (theodor.learn@gmail.com)
 
