@@ -5,7 +5,7 @@
 - 📫 How to reach me: github/email (theodor.learn@gmail.com)
 
 Projects:
-- I am currently working on Jubler (a plattform to rent, and rent out party spots) https://jubler.net/
+- I worked on Jubler (a plattform to rent, and rent out party spots) https://jubler.net/
 - I worked on Bakkacoin (A crypto currency designed to encurage social activity for Elvebakken VGS) for about 1 year https://bakkacoin.on.fleek.co/
 
 Code examples given on request
