@@ -1,5 +1,5 @@
 # 💫 About Me:
-👀 I am full-stack developer <br>🌱 I’m currently learning Machine Learning<br>💬 Ask me about ethical AI and web development<br>⚡️ Fun fact: I've had a paining of myself in a gallery
+👀 I am full-stack developer <br>🌱 I’m currently learning Machine Learning<br>💬 Ask me about ethical AI and web development<br>⚡️ Fun fact: I've had a painting of myself in a gallery
 
 
 ## 🌐 Socials:
