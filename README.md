@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **data science with machine learning**
 
-- 💬 Ask me **how to reach business goals through technology**
+- 💬 Ask me **how to reach business goals by utilizing technology**
 
 - 📫 How to reach me **theodor.learn@gmail.com**
 
